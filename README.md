@@ -1,3 +1,3 @@
-# TestingCodeWithData
+# TestingJavaWithSqlServer
 
 Java With SqlServer 
